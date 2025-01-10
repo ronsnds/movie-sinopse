@@ -1,0 +1,1 @@
+### Plataforma de sinopse de filmes com Backend e Frontend
